@@ -11,5 +11,6 @@ Segue links:
 - [Golang](https://github.com/JVUnderground/golang-learning-2)
 - [React](https://github.com/AndreAffonso/carrinho-de-compras)
 - [NextJs](https://github.com/itsnitinr/nextjs-shopping-cart)
+- [Angular](https://github.com/abfurlan/shopping-cart-angular4)
 - [Flutter](https://github.com/Flutterando/carrinho_compras)
 - [Kotlin](https://github.com/i-vishi/shopping-android-app)
